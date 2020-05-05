@@ -1,21 +1,5 @@
 # Proto
 
-**TODO: Add description**
+This is a small elixir program to understand how to use Protocols for polymorphism in elixir
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `proto` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:proto, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/proto](https://hexdocs.pm/proto).
-
+Of note is how to implement the a protocol so that it can handle an Any kind
